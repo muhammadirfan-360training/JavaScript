@@ -1,2 +1,2 @@
 # JavaScript
-This project contains Jaca Script files.
+This project contains Java Script files.
